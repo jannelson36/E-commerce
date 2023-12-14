@@ -3,11 +3,11 @@ Welcome to Ecommerce-Store, a robust and feature-rich e-commerce solution.
 This project combines a powerful technological stack to provide a seamless and secure online shopping experience.
 
 ## Project Build
->> PHP
->> Bootstrap,
->> Java Script,
->> CSS,
->> MySQL
+* PHP
+* Bootstrap,
+* Java Script,
+* CSS,
+*  MySQL
 
 ## Project Highlights
 >> Email confirmation
