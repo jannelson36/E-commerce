@@ -4,10 +4,10 @@ This project combines a powerful technological stack to provide a seamless and s
 
 ## Project Build
 * PHP
-* Bootstrap,
-* Java Script,
-* CSS,
-*  MySQL
+* Bootstrap
+* JavaScript
+* CSS
+* MySQL
 
 ## Project Highlights
 >> Email confirmation,
