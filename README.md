@@ -1,5 +1,5 @@
 # An Ecommerce-Store
-Welcome to Ecommerce-Store, a robust and feature-rich e-commerce solution.  
+Welcome to my e-commerce project, a robust and feature-rich e-commerce solution.  
 This project combines a powerful technological stack to provide a seamless and secure online shopping experience.
 
 ## Project Build
