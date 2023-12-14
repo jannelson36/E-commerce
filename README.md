@@ -1,3 +1,18 @@
-An Ecommerce-Strore .
-Project built with PHP, Bootstrap, Java Script, CSS, MySQL with Email confirmation,Paypal payement , Ion Auth , Live Chatroom and full admin dashboard
+# An Ecommerce-Store
+Welcome to Ecommerce-Store, a robust and feature-rich e-commerce solution.  
+This project combines a powerful technological stack to provide a seamless and secure online shopping experience.
+
+## Project Build
+>> PHP
+>> Bootstrap,
+>> Java Script,
+>> CSS,
+>> MySQL
+
+## Project Highlights
+>> Email confirmation
+>> Paypal payement
+>> Ion Auth
+>> Live Chatroom
+>> Full admin dashboard
 
