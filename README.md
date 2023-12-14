@@ -10,9 +10,9 @@ This project combines a powerful technological stack to provide a seamless and s
 *  MySQL
 
 ## Project Highlights
->> Email confirmation
->> Paypal payement
->> Ion Auth
->> Live Chatroom
+>> Email confirmation,
+>> Paypal payement,
+>> Ion Auth,
+>> Live Chatroom, and
 >> Full admin dashboard
 
