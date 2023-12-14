@@ -1,4 +1,4 @@
-# An Ecommerce-Store
+# An E-commerce Store
 Welcome to my e-commerce project, a robust and feature-rich e-commerce solution.  
 This project combines a powerful technological stack to provide a seamless and secure online shopping experience.
 
